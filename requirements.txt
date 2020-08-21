@@ -1,4 +1,4 @@
-asn1crypto==0.24.0
+asn1crypto==1.4.0
 Authlib==0.10
 certifi==2018.11.29
 cffi==1.12.3
