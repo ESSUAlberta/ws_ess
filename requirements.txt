@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 Authlib==0.10
 certifi==2018.11.29
 cffi==1.12.3
-chardet==3.0.4
+chardet==4.0.0
 Click==7.0
 cryptography==2.5
 Flask==1.0.2
