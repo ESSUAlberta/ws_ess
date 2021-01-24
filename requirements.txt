@@ -1,5 +1,5 @@
 asn1crypto==0.24.0
-Authlib==0.10
+Authlib==0.15.3
 certifi==2018.11.29
 cffi==1.12.3
 chardet==3.0.4
